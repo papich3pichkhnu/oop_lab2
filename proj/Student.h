@@ -7,7 +7,8 @@ class Student
 public:
 	string firstName;
 	string name;
-	string lastName;	
+	string lastName;
+	void setName(string _name)
 private:
 	int age;
 	int height;
