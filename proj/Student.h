@@ -8,7 +8,7 @@ public:
 	string firstName;
 	string name;
 	string lastName;
-	void setName(string _name)
+	void setName(string _name);
 private:
 	int age;
 	int height;
